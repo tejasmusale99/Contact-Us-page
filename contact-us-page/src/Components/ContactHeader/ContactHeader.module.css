@@ -2,9 +2,14 @@
     color: #000000;
     font-size: 48px;
     font-weight: 800;
+    max-width: 80%;
 }
 .contact_section p{
     color: #5A5959;
     font-size: 16px;
     font-weight: 400;
+}
+.contact_section{
+    max-width: 1000px;
+    margin: 0 auto;
 }
